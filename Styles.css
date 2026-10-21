@@ -1,0 +1,25 @@
+h1{
+ font-style: oblique;
+ 
+ 
+ 
+ 
+ 
+    color:white
+}
+body{
+  background-image: linear-gradient(to bottom right, black, red);
+  height: 100vh;
+}
+p{
+    color:white
+}
+li{
+    color: white
+}
+a{
+    color:aqua
+}
+h2{
+    color:white
+}
